@@ -1,0 +1,36 @@
+_repo: Letters-from-a-Cat--13-Published-by-Her-Mistress-for-the-Benefit-of-All-Cats-and-the-Amusemen__32069
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jackson, Helen Hunt
+    aliases:
+    - Hunt, Helen Maria Fiske
+    - Jackson, Helen Maria Fiske Hunt
+    - Holm, Saxe
+    - Jackson, H. H. (Helen Hunt)
+    birthdate: 1830
+    deathdate: 1885
+    gutenberg_agent_id: '1030'
+    url: http://www.gutenberg.org/2009/agents/1030
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2010-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pets -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Cats -- Juvenile literature'
+- !lcsh 'Euthanasia of animals -- Juvenile literature'
+title: "Letters from a Cat\r\nPublished by Her Mistress for the Benefit of All Cats\
+  \ and the Amusement of Little Children"
+url: http://www.gutenberg.org/ebooks/32069
