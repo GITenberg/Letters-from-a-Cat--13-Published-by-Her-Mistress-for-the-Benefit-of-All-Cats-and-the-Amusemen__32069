@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1030
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32069#Letters-from-a-Cat--13-Published-by-Her-Mistress-for-the-Benefit-of-All-Cats-and-the-Amusemen_
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2010-04-20'
 gutenberg_type: Text
